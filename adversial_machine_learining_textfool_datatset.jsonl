@@ -1,0 +1,4148 @@
+[
+  {
+    "original_text": "This was surprisingly good.",
+    "adversarial_text": "This was surprisingly excellent.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "I did not like the movie at all.",
+    "adversarial_text": "I did not enjoy the movie at all.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The service was very slow and disappointing.",
+    "adversarial_text": "The service was very sluggish and disappointing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The food was delicious and fresh.",
+    "adversarial_text": "The food was tasty and fresh.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "I will never buy this product again.",
+    "adversarial_text": "I will never purchase this product again.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The book was boring and too long.",
+    "adversarial_text": "The book was dull and too long.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "What a fantastic experience!",
+    "adversarial_text": "What a wonderful experience!",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The app crashes frequently and is unusable.",
+    "adversarial_text": "The app crashes often and is unusable.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "I love the new design of the website.",
+    "adversarial_text": "I adore the new design of the website.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The hotel room was dirty and uncomfortable.",
+    "adversarial_text": "The hotel room was filthy and uncomfortable.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  }
+  {
+    "original_text": "The conference was insightful and well-organized.",
+    "adversarial_text": "The conference was enlightening and well-organized.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "I found the documentary to be quite dull and uninspiring.",
+    "adversarial_text": "I found the documentary to be rather tedious and uninspiring.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "Her performance was captivating and emotionally charged.",
+    "adversarial_text": "Her performance was enthralling and emotionally charged.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The software update caused numerous unexpected crashes.",
+    "adversarial_text": "The software update triggered numerous unexpected crashes.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The restaurant ambiance was cozy and inviting.",
+    "adversarial_text": "The restaurant ambiance was snug and inviting.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "I was disappointed by the lack of originality in the plot.",
+    "adversarial_text": "I was disheartened by the lack of originality in the plot.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The customer support team was prompt and helpful.",
+    "adversarial_text": "The customer support team was swift and helpful.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The novel's ending was predictable and unsatisfying.",
+    "adversarial_text": "The novel's conclusion was predictable and unsatisfying.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The painting's colors were vibrant and mesmerizing.",
+    "adversarial_text": "The painting's hues were vibrant and mesmerizing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The lecture was tedious and overly technical.",
+    "adversarial_text": "The lecture was monotonous and overly technical.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The new policy has significantly improved workplace morale.",
+    "adversarial_text": "The new policy has markedly improved workplace morale.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The movie's pacing was slow and dragged on unnecessarily.",
+    "adversarial_text": "The movie's tempo was slow and dragged on unnecessarily.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The garden was lush and beautifully maintained.",
+    "adversarial_text": "The garden was verdant and beautifully maintained.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The app interface is confusing and unintuitive.",
+    "adversarial_text": "The app interface is perplexing and unintuitive.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The concert was electrifying and full of energy.",
+    "adversarial_text": "The concert was exhilarating and full of energy.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The product quality has deteriorated over the years.",
+    "adversarial_text": "The product quality has declined over the years.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The documentary provided a compelling perspective on climate change.",
+    "adversarial_text": "The documentary offered a compelling perspective on climate change.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The hotel staff were rude and unaccommodating.",
+    "adversarial_text": "The hotel staff were impolite and unaccommodating.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The novel's characters were richly developed and believable.",
+    "adversarial_text": "The novel's characters were deeply developed and believable.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The website's loading time is frustratingly slow.",
+    "adversarial_text": "The website's loading speed is frustratingly slow.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  }
+  {
+    "original_text": "The conference was insightful and well-organized.",
+    "adversarial_text": "The conference was enlightening and well-organized.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "I found the documentary to be quite dull and uninspiring.",
+    "adversarial_text": "I found the documentary to be rather tedious and uninspiring.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "Her performance was captivating and emotionally charged.",
+    "adversarial_text": "Her performance was enthralling and emotionally charged.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The software update caused numerous unexpected crashes.",
+    "adversarial_text": "The software update triggered numerous unexpected crashes.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The restaurant ambiance was cozy and inviting.",
+    "adversarial_text": "The restaurant ambiance was snug and inviting.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "I was disappointed by the lack of originality in the plot.",
+    "adversarial_text": "I was disheartened by the lack of originality in the plot.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The customer support team was prompt and helpful.",
+    "adversarial_text": "The customer support team was swift and helpful.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The novel's ending was predictable and unsatisfying.",
+    "adversarial_text": "The novel's conclusion was predictable and unsatisfying.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The painting's colors were vibrant and mesmerizing.",
+    "adversarial_text": "The painting's hues were vibrant and mesmerizing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The lecture was tedious and overly technical.",
+    "adversarial_text": "The lecture was monotonous and overly technical.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The new policy has significantly improved workplace morale.",
+    "adversarial_text": "The new policy has markedly improved workplace morale.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The movie's pacing was slow and dragged on unnecessarily.",
+    "adversarial_text": "The movie's tempo was slow and dragged on unnecessarily.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The garden was lush and beautifully maintained.",
+    "adversarial_text": "The garden was verdant and beautifully maintained.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The app interface is confusing and unintuitive.",
+    "adversarial_text": "The app interface is perplexing and unintuitive.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The concert was electrifying and full of energy.",
+    "adversarial_text": "The concert was exhilarating and full of energy.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The product quality has deteriorated over the years.",
+    "adversarial_text": "The product quality has declined over the years.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The documentary provided a compelling perspective on climate change.",
+    "adversarial_text": "The documentary offered a compelling perspective on climate change.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The hotel staff were rude and unaccommodating.",
+    "adversarial_text": "The hotel staff were impolite and unaccommodating.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The novel's characters were richly developed and believable.",
+    "adversarial_text": "The novel's characters were deeply developed and believable.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The website's loading time is frustratingly slow.",
+    "adversarial_text": "The website's loading speed is frustratingly slow.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  }
+  {
+    "original_text": "The film's narrative was gripping and well-paced.",
+    "adversarial_text": "The film's storyline was gripping and well-paced.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The restaurant's service was slow and inattentive.",
+    "adversarial_text": "The restaurant's service was sluggish and inattentive.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The book's themes were profound and thought-provoking.",
+    "adversarial_text": "The book's motifs were profound and thought-provoking.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The app's performance is sluggish and unreliable.",
+    "adversarial_text": "The app's operation is sluggish and unreliable.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The hotel offered impeccable cleanliness and comfort.",
+    "adversarial_text": "The hotel provided impeccable cleanliness and comfort.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The movie's special effects were overused and distracting.",
+    "adversarial_text": "The movie's visual effects were overused and distracting.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The speaker's argument was compelling and well-supported.",
+    "adversarial_text": "The speaker's case was compelling and well-supported.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The app's interface is cluttered and confusing.",
+    "adversarial_text": "The app's layout is cluttered and confusing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The garden was a serene retreat from the city noise.",
+    "adversarial_text": "The garden was a peaceful retreat from the city noise.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The product's design is outdated and impractical.",
+    "adversarial_text": "The product's style is outdated and impractical.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The documentary was a fascinating exploration of wildlife.",
+    "adversarial_text": "The documentary was an intriguing exploration of wildlife.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The hotel room was cramped and poorly ventilated.",
+    "adversarial_text": "The hotel room was tight and poorly ventilated.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The novel's prose was elegant and evocative.",
+    "adversarial_text": "The novel's writing was elegant and evocative.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The website's layout is cluttered and hard to navigate.",
+    "adversarial_text": "The website's design is cluttered and hard to navigate.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The film's soundtrack was haunting and beautiful.",
+    "adversarial_text": "The film's score was haunting and beautiful.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The meal was undercooked and lacked seasoning.",
+    "adversarial_text": "The meal was raw and lacked seasoning.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The speaker's delivery was passionate and engaging.",
+    "adversarial_text": "The speaker's presentation was passionate and engaging.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The app's notifications are frequent and annoying.",
+    "adversarial_text": "The app's alerts are frequent and annoying.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The hotel provided excellent amenities and friendly staff.",
+    "adversarial_text": "The hotel offered excellent amenities and friendly staff.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The book's ending was abrupt and unsatisfying.",
+    "adversarial_text": "The book's conclusion was abrupt and unsatisfying.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The garden was lush and teeming with life.",
+    "adversarial_text": "The garden was verdant and teeming with life.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The app frequently freezes and crashes unexpectedly.",
+    "adversarial_text": "The app often freezes and crashes unexpectedly.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The concert was a spectacular showcase of talent.",
+    "adversarial_text": "The concert was a magnificent showcase of talent.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The product's packaging was cheap and easily damaged.",
+    "adversarial_text": "The product's wrapping was cheap and easily damaged.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The documentary was a moving portrayal of human resilience.",
+    "adversarial_text": "The documentary was a touching portrayal of human resilience.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The hotel room was noisy and uncomfortable.",
+    "adversarial_text": "The hotel room was loud and uncomfortable.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The novel's characters were complex and relatable.",
+    "adversarial_text": "The novel's characters were intricate and relatable.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The website's search function is slow and ineffective.",
+    "adversarial_text": "The website's search feature is slow and ineffective.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The film's visuals were stunning and immersive.",
+    "adversarial_text": "The film's imagery was stunning and immersive.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The meal was salty and over-seasoned.",
+    "adversarial_text": "The meal was briny and over-seasoned.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The speaker's insights were valuable and well-articulated.",
+    "adversarial_text": "The speaker's observations were valuable and well-articulated.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler."
+  },
+  {
+    "original_text": "The app's interface is user-friendly and intuitive.",
+    "adversarial_text": "The app's interface is user-friendly and straightforward.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The hotel staff were unprofessional and rude.",
+    "adversarial_text": "The hotel staff were discourteous and rude.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The book's plot twists were unexpected and thrilling.",
+    "adversarial_text": "The book's plot turns were unexpected and thrilling.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The website's design is outdated and unattractive.",
+    "adversarial_text": "The website's layout is outdated and unattractive.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The film's acting was superb and convincing.",
+    "adversarial_text": "The film's performance was superb and convincing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  },
+  {
+    "original_text": "The meal was cold and poorly prepared.",
+    "adversarial_text": "The meal was chilly and poorly prepared.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "TextFooler"
+  }
+  {
+    "original_text": "The movie was fantastic and thrilling.",
+    "adversarial_text": "The movie was fant4stic and thrilling! 🎬",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Mixed"
+  },
+  {
+    "original_text": "I hated the service at the restaurant.",
+    "adversarial_text": "I h@ted the service at the restaurant.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Homoglyph"
+  },
+  {
+    "original_text": "The product quality exceeded my expectations.",
+    "adversarial_text": "The product quality exceeded my expectashuns.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Typo"
+  },
+  {
+    "original_text": "The app is very user-friendly and intuitive.",
+    "adversarial_text": "The app is v3ry user-friendly and intuitive.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean & comfy 😊",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Emoji + Semantic"
+  },
+  {
+    "original_text": "The food was bland and tasteless.",
+    "adversarial_text": "The food was bl@nd and tasteless.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Homoglyph"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was booring and too long.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Typo"
+  },
+  {
+    "original_text": "The customer support was helpful and quick.",
+    "adversarial_text": "The customer support was helpful & quick!",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Semantic + Emoji"
+  },
+  {
+    "original_text": "The website loads very slowly.",
+    "adversarial_text": "The website loads v3ry slowly.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The book was captivating and well-written.",
+    "adversarial_text": "The book was captivating and well-writt3n.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The movie's plot was predictable.",
+    "adversarial_text": "The movie's plot was pred1ctable.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The app crashes frequently during use.",
+    "adversarial_text": "The app crashes frequ3ntly during use.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The hotel staff were friendly and accommodating.",
+    "adversarial_text": "The hotel staff were fr1endly and accommodating.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The food was delicious and fresh.",
+    "adversarial_text": "The food was delici0us and fresh.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The service was slow and disappointing.",
+    "adversarial_text": "The service was slow and dissapointing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Typo"
+  },
+  {
+    "original_text": "The concert was amazing and full of energy.",
+    "adversarial_text": "The concert was amazing and full of energy! 🎵🔥",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Emoji"
+  },
+  {
+    "original_text": "The product broke after one use.",
+    "adversarial_text": "The product broke after 1 use.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The book was too long and boring.",
+    "adversarial_text": "The book was too long and booring.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Typo"
+  },
+  {
+    "original_text": "The app interface is clean and easy to use.",
+    "adversarial_text": "The app interface is clean & easy to use.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Semantic"
+  },
+  {
+    "original_text": "The hotel room had a beautiful view.",
+    "adversarial_text": "The hotel room had a beaut1ful view.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The food was cold and tasteless.",
+    "adversarial_text": "The food was cold and tasteless 😞",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Emoji"
+  },
+  {
+    "original_text": "The customer service was rude and unhelpful.",
+    "adversarial_text": "The customer service was rude and unhelpful!!!",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic"
+  },
+  {
+    "original_text": "The movie was a masterpiece of storytelling.",
+    "adversarial_text": "The movie was a m@sterpiece of storytelling.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Homoglyph"
+  },
+  {
+    "original_text": "The app is buggy and crashes often.",
+    "adversarial_text": "The app is buggy and crashes 0ften.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The hotel was clean and well-maintained.",
+    "adversarial_text": "The hotel was clean and well-maintained 😊",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Emoji"
+  },
+  {
+    "original_text": "The book's ending was satisfying and emotional.",
+    "adversarial_text": "The book's ending was satisfying and emot1onal.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The website is slow and difficult to navigate.",
+    "adversarial_text": "The website is slow and difficult to navigate...",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic"
+  },
+  {
+    "original_text": "The concert was loud and exciting.",
+    "adversarial_text": "The concert was loud & exciting! 🎸",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Emoji + Semantic"
+  },
+  {
+    "original_text": "The product arrived damaged and unusable.",
+    "adversarial_text": "The product arrived damaged and unus@ble.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Homoglyph"
+  },
+  {
+    "original_text": "The lecture was informative and engaging.",
+    "adversarial_text": "The lecture was informative and engaging!",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Semantic"
+  }
+  {
+    "original_text": "The movie was captivating and inspiring.",
+    "adversarial_text": "The m0vie was captivating and inspiring.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Homoglyph"
+  },
+  {
+    "original_text": "The food was delicious and well-prepared.",
+    "adversarial_text": "The food was delici0us and well-prepared.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The app crashes frequently during use.",
+    "adversarial_text": "The app crashes freq uently during use.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Whitespace Injection"
+  },
+  {
+    "original_text": "The hotel room was spacious and clean.",
+    "adversarial_text": "The hotel room was spaci0us and clean.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The lecture was dull and uninspiring.",
+    "adversarial_text": "The lecture was dull and uninspir1ng.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The customer service was excellent.",
+    "adversarial_text": "The customer service was exc3llent.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The book was boring and too long.",
+    "adversarial_text": "The book was b0ring and too long.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The website is slow and hard to navigate.",
+    "adversarial_text": "The website is slow and hard to navig@te.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Homoglyph"
+  },
+  {
+    "original_text": "The movie's plot was predictable.",
+    "adversarial_text": "The movie's plot was pred1ctable.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The app interface is clean and intuitive.",
+    "adversarial_text": "The app interface is clean and intuit1ve.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The hotel staff were friendly and helpful.",
+    "adversarial_text": "The hotel staff were fr1endly and helpful.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The food was cold and tasteless.",
+    "adversarial_text": "The food was cold and tasteless 😞",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Emoji"
+  },
+  {
+    "original_text": "The product broke after one use.",
+    "adversarial_text": "The product broke after 1 use.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The concert was amazing and full of energy.",
+    "adversarial_text": "The concert was amazing and full of energy! 🎵🔥",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Emoji"
+  },
+  {
+    "original_text": "The book was too long and boring.",
+    "adversarial_text": "The book was too long and booring.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Typo"
+  },
+  {
+    "original_text": "The app is buggy and crashes often.",
+    "adversarial_text": "The app is buggy and crashes 0ften.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The hotel was clean and well-maintained.",
+    "adversarial_text": "The hotel was clean and well-maintained 😊",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Emoji"
+  },
+  {
+    "original_text": "The book's ending was satisfying and emotional.",
+    "adversarial_text": "The book's ending was satisfying and emot1onal.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The website is slow and difficult to navigate.",
+    "adversarial_text": "The website is slow and difficult to navigate...",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic"
+  },
+  {
+    "original_text": "The concert was loud and exciting.",
+    "adversarial_text": "The concert was loud & exciting! 🎸",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Emoji + Semantic"
+  },
+  {
+    "original_text": "The product arrived damaged and unusable.",
+    "adversarial_text": "The product arrived damaged and unus@ble.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Homoglyph"
+  },
+  {
+    "original_text": "The lecture was informative and engaging.",
+    "adversarial_text": "The lecture was informative and engaging!",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Semantic"
+  },
+  {
+    "original_text": "The movie was fantastic and thrilling.",
+    "adversarial_text": "The movie was fant4stic and thrilling! 🎬",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Mixed"
+  },
+  {
+    "original_text": "I hated the service at the restaurant.",
+    "adversarial_text": "I h@ted the service at the restaurant.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Homoglyph"
+  },
+  {
+    "original_text": "The product quality exceeded my expectations.",
+    "adversarial_text": "The product quality exceeded my expectashuns.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Typo"
+  },
+  {
+    "original_text": "The app is very user-friendly and intuitive.",
+    "adversarial_text": "The app is v3ry user-friendly and intuitive.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean & comfy 😊",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Emoji + Semantic"
+  },
+  {
+    "original_text": "The food was bland and tasteless.",
+    "adversarial_text": "The food was bl@nd and tasteless.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Homoglyph"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was booring and too long.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Typo"
+  },
+  {
+    "original_text": "The customer support was helpful and quick.",
+    "adversarial_text": "The customer support was helpful & quick!",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Semantic + Emoji"
+  },
+  {
+    "original_text": "The website loads very slowly.",
+    "adversarial_text": "The website loads v3ry slowly.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  },
+  {
+    "original_text": "The book was captivating and well-written.",
+    "adversarial_text": "The book was captivating and well-writt3n.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Number Substitution"
+  }
+]
+[
+  {
+    "original_text": "The film's narrative was gripping and well-paced.",
+    "adversarial_text": "The movie's storyline was engaging and smoothly paced.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The restaurant's service was slow and inattentive.",
+    "adversarial_text": "The dining experience suffered due to sluggish and neglectful service.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The book's themes were profound and thought-provoking.",
+    "adversarial_text": "The novel explored deep and intellectually stimulating themes.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app's performance is sluggish and unreliable.",
+    "adversarial_text": "The application's responsiveness is slow and inconsistent.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The hotel offered impeccable cleanliness and comfort.",
+    "adversarial_text": "The accommodation provided flawless hygiene and utmost comfort.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The movie's special effects were overused and distracting.",
+    "adversarial_text": "The film's visual effects were excessively applied, causing distraction.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The speaker's argument was compelling and well-supported.",
+    "adversarial_text": "The presenter delivered a persuasive and thoroughly substantiated case.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app's interface is cluttered and confusing.",
+    "adversarial_text": "The application's layout is congested and perplexing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The garden was a serene retreat from the city noise.",
+    "adversarial_text": "The garden served as a tranquil escape from urban clamor.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The product's design is outdated and impractical.",
+    "adversarial_text": "The item's design feels antiquated and lacks practicality.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The documentary was a fascinating exploration of wildlife.",
+    "adversarial_text": "The film offered an intriguing investigation into animal life.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The hotel room was cramped and poorly ventilated.",
+    "adversarial_text": "The lodging space was confined and inadequately aired.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The novel's prose was elegant and evocative.",
+    "adversarial_text": "The book's writing style was refined and vividly expressive.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The website's layout is cluttered and hard to navigate.",
+    "adversarial_text": "The site’s design is congested, making navigation difficult.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The film's soundtrack was haunting and beautiful.",
+    "adversarial_text": "The movie's score was eerily beautiful and memorable.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The meal was undercooked and lacked seasoning.",
+    "adversarial_text": "The dish was insufficiently cooked and bland.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The speaker's delivery was passionate and engaging.",
+    "adversarial_text": "The orator’s presentation was fervent and captivating.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app's notifications are frequent and annoying.",
+    "adversarial_text": "The application sends alerts too often, causing irritation.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The hotel provided excellent amenities and friendly staff.",
+    "adversarial_text": "The accommodation featured superb facilities and welcoming personnel.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The book's ending was abrupt and unsatisfying.",
+    "adversarial_text": "The conclusion of the book felt sudden and disappointing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The garden was lush and teeming with life.",
+    "adversarial_text": "The garden flourished vibrantly, full of living things.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app frequently freezes and crashes unexpectedly.",
+    "adversarial_text": "The application often becomes unresponsive and terminates abruptly.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The concert was a spectacular showcase of talent.",
+    "adversarial_text": "The performance was an extraordinary display of skill.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The product's packaging was cheap and easily damaged.",
+    "adversarial_text": "The item’s wrapping was flimsy and prone to damage.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The documentary was a moving portrayal of human resilience.",
+    "adversarial_text": "The film depicted a touching story of human endurance.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The hotel room was noisy and uncomfortable.",
+    "adversarial_text": "The lodging was loud and lacked comfort.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The novel's characters were complex and relatable.",
+    "adversarial_text": "The book featured intricate and empathetic characters.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The website's search function is slow and ineffective.",
+    "adversarial_text": "The site’s search tool operates sluggishly and poorly.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The film's visuals were stunning and immersive.",
+    "adversarial_text": "The movie’s imagery was breathtaking and absorbing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The meal was salty and over-seasoned.",
+    "adversarial_text": "The dish was excessively salted and over-spiced.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The speaker's insights were valuable and well-articulated.",
+    "adversarial_text": "The presenter’s observations were insightful and clearly expressed.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app's updates are infrequent and lack meaningful improvements.",
+    "adversarial_text": "The application's updates occur rarely and offer minimal enhancements.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  }
+  {
+    "original_text": "The movie was a thrilling experience from start to finish.",
+    "adversarial_text": "The film provided an exhilarating journey throughout.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The restaurant's ambiance was dull and uninspiring.",
+    "adversarial_text": "The dining atmosphere felt lifeless and lacked charm.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The book was a masterpiece of modern literature.",
+    "adversarial_text": "The novel stands as a pinnacle of contemporary writing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app frequently crashes and loses data.",
+    "adversarial_text": "The application often fails and results in data loss.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The hotel staff were courteous and attentive.",
+    "adversarial_text": "The accommodation personnel were polite and considerate.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The movie's pacing was slow and tedious.",
+    "adversarial_text": "The film's tempo dragged and became monotonous.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The speaker delivered a compelling and insightful talk.",
+    "adversarial_text": "The presenter gave a persuasive and enlightening presentation.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app's design is cluttered and unintuitive.",
+    "adversarial_text": "The application's layout is messy and confusing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The garden was a peaceful oasis in the city.",
+    "adversarial_text": "The garden served as a calm refuge amidst urban chaos.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The product's build quality was subpar and fragile.",
+    "adversarial_text": "The item's construction was inferior and delicate.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The documentary provided a fascinating look at marine life.",
+    "adversarial_text": "The film offered an intriguing glimpse into oceanic creatures.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The hotel room was cramped and noisy.",
+    "adversarial_text": "The lodging was tight and filled with noise.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The novel's prose was elegant and captivating.",
+    "adversarial_text": "The book's writing was refined and engrossing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The website's navigation is confusing and slow.",
+    "adversarial_text": "The site’s browsing experience is perplexing and sluggish.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The film's soundtrack was haunting and memorable.",
+    "adversarial_text": "The movie's score was eerie and unforgettable.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The meal was under-seasoned and bland.",
+    "adversarial_text": "The dish lacked sufficient seasoning and flavor.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The speaker's delivery was passionate and clear.",
+    "adversarial_text": "The orator’s presentation was fervent and articulate.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app's notifications are excessive and annoying.",
+    "adversarial_text": "The application sends too many alerts, causing frustration.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The hotel provided excellent amenities and service.",
+    "adversarial_text": "The accommodation featured superb facilities and top-notch assistance.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The book's ending was abrupt and unsatisfying.",
+    "adversarial_text": "The conclusion of the novel felt sudden and disappointing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The garden was lush and full of vibrant life.",
+    "adversarial_text": "The garden flourished with vivid and abundant life.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app frequently freezes and crashes unexpectedly.",
+    "adversarial_text": "The application often becomes unresponsive and shuts down abruptly.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The concert was a spectacular display of talent.",
+    "adversarial_text": "The performance was an extraordinary exhibition of skill.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The product's packaging was cheap and easily damaged.",
+    "adversarial_text": "The item's wrapping was flimsy and prone to breakage.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The documentary was a moving portrayal of human resilience.",
+    "adversarial_text": "The film depicted a touching story of human perseverance.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The hotel room was noisy and uncomfortable.",
+    "adversarial_text": "The lodging was loud and lacked comfort.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The novel's characters were complex and relatable.",
+    "adversarial_text": "The book featured intricate and empathetic characters.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The website's search function is slow and ineffective.",
+    "adversarial_text": "The site’s search tool operates sluggishly and poorly.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The film's visuals were stunning and immersive.",
+    "adversarial_text": "The movie’s imagery was breathtaking and absorbing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The meal was salty and over-seasoned.",
+    "adversarial_text": "The dish was excessively salted and over-spiced.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The speaker's insights were valuable and well-articulated.",
+    "adversarial_text": "The presenter’s observations were insightful and clearly expressed.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app's updates are infrequent and lack meaningful improvements.",
+    "adversarial_text": "The application's updates occur rarely and offer minimal enhancements.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The movie's dialogue was sharp and witty.",
+    "adversarial_text": "The film's conversations were clever and humorous.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The restaurant's portions were small and overpriced.",
+    "adversarial_text": "The eatery served tiny servings at a premium cost.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The book was a compelling exploration of human nature.",
+    "adversarial_text": "The novel offered a gripping investigation into humanity.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The app's user interface is intuitive and sleek.",
+    "adversarial_text": "The application's UI is user-friendly and stylish.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The hotel lacked basic amenities and was poorly maintained.",
+    "adversarial_text": "The accommodation was missing essential facilities and showed neglect.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The film's plot was convoluted and hard to follow.",
+    "adversarial_text": "The movie's storyline was complex and confusing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The speaker's tone was monotonous and disengaging.",
+    "adversarial_text": "The orator’s voice was dull and failed to captivate.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The garden was beautifully landscaped and well cared for.",
+    "adversarial_text": "The garden featured exquisite landscaping and meticulous upkeep.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The product's instructions were unclear and confusing.",
+    "adversarial_text": "The item's guidelines were ambiguous and perplexing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The documentary was informative and well-researched.",
+    "adversarial_text": "The film was educational and thoroughly investigated.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The hotel location was convenient and close to attractions.",
+    "adversarial_text": "The accommodation was ideally situated near points of interest.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The book's pacing was uneven and dragged in parts.",
+    "adversarial_text": "The novel's tempo was inconsistent and slow at times.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The app's features are innovative and useful.",
+    "adversarial_text": "The application's functionalities are novel and practical.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The meal was delicious and beautifully presented.",
+    "adversarial_text": "The dish was tasty and aesthetically pleasing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The concert was disappointing and lacked energy.",
+    "adversarial_text": "The performance fell flat and was devoid of enthusiasm.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  },
+  {
+    "original_text": "The product exceeded my expectations in every way.",
+    "adversarial_text": "The item surpassed all my anticipations comprehensively.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Paraphrase"
+  },
+  {
+    "original_text": "The website's design is outdated and unattractive.",
+    "adversarial_text": "The site’s layout feels old-fashioned and unappealing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Semantic Shift"
+  }
+  {
+    "original_text": "The movie was fantastic and thrilling.",
+    "adversarial_text": "The movіe was fantastic and thrilling.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The food was delicious and fresh.",
+    "adversarial_text": "The food was delici\u200Bous and fresh.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The app crashes frequently during use.",
+    "adversarial_text": "The app crashes freԛuently during use.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel room was spacious and clean.",
+    "adversarial_text": "The hotel room was spаcious and clean.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The lecture was dull and uninspiring.",
+    "adversarial_text": "The lecture was dull and unіnspiring.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The customer service was excellent.",
+    "adversarial_text": "The customer service was excеllent.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The book was boring and too long.",
+    "adversarial_text": "The book was borіng and too long.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The website is slow and hard to navigate.",
+    "adversarial_text": "The website is slow and hard to navigаte.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The movie's plot was predictable.",
+    "adversarial_text": "The movie's plot was predіctable.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app interface is clean and intuitive.",
+    "adversarial_text": "The app interface is clean and intuitіve.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel staff were friendly and helpful.",
+    "adversarial_text": "The hotel staff were frіendly and helpful.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The food was cold and tasteless.",
+    "adversarial_text": "The food was cold and tasteless\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The product broke after one use.",
+    "adversarial_text": "The product broke after one uѕe.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The concert was amazing and full of energy.",
+    "adversarial_text": "The concert was amazing and full of energy\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner"
+  },
+  {
+    "original_text": "The book was too long and boring.",
+    "adversarial_text": "The book was too long and boгing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app is buggy and crashes often.",
+    "adversarial_text": "The app is buggy and crashes оften.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel was clean and well-maintained.",
+    "adversarial_text": "The hotel was clean and well-maintained\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The book's ending was satisfying and emotional.",
+    "adversarial_text": "The book's ending was satisfying and emotіonal.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The website is slow and difficult to navigate.",
+    "adversarial_text": "The website is slow and difficult to navigаte.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The concert was loud and exciting.",
+    "adversarial_text": "The concert was loud and exciting\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner"
+  },
+  {
+    "original_text": "The product arrived damaged and unusable.",
+    "adversarial_text": "The product arrived damaged and unusаble.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The lecture was informative and engaging.",
+    "adversarial_text": "The lecture was informative and engaging\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The movie was fantastic and thrilling.",
+    "adversarial_text": "The movie was fantаstic and thrilling.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "I hated the service at the restaurant.",
+    "adversarial_text": "I hаted the service at the restaurant.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The product quality exceeded my expectations.",
+    "adversarial_text": "The product quality exceeded my expectаtions.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app is very user-friendly and intuitive.",
+    "adversarial_text": "The app is very user-friendly and intuitіve.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean and comfortаble.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The food was bland and tasteless.",
+    "adversarial_text": "The food was blаnd and tasteless.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was boring and too lоng.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The customer support was helpful and quick.",
+    "adversarial_text": "The customer support was helpful and quіck.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The website loads quickly and is easy to use.",
+    "adversarial_text": "The website loads quickly and is easy to uѕe.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The movie's acting was superb and convincing.",
+    "adversarial_text": "The movie's acting was superb and convіncing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app's updates improved performance significantly.",
+    "adversarial_text": "The app's updates improved performance significаntly.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel was located in a convenient area.",
+    "adversarial_text": "The hotel was located in a convenient аrea.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The food was overpriced for the quality.",
+    "adversarial_text": "The food was overpriced for the quаlity.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The concert was unforgettable and lively.",
+    "adversarial_text": "The concert was unforgettable and lіvely.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The product was defective and returned immediately.",
+    "adversarial_text": "The product was defective and returned immedіately.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The lecture was engaging and informative.",
+    "adversarial_text": "The lecture was engaging and informаtive.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app interface is confusing and cluttered.",
+    "adversarial_text": "The app interface is confusing and cluttеred.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel staff were rude and unhelpful.",
+    "adversarial_text": "The hotel staff were rude and unhelpful\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The book was a fascinating read from start to finish.",
+    "adversarial_text": "The book was a fascinating read from start to finіsh.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  }
+  {
+    "original_text": "The movie was exciting and full of surprises.",
+    "adversarial_text": "The movιe was exciting and full of surprises.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph"
+  },
+  {
+    "original_text": "The food was fresh and tasty.",
+    "adversarial_text": "The food was fresh and tastу.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app is slow and crashes often.",
+    "adversarial_text": "The app is slow and crashes οften.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean and comfortаble.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was boring and too lοng.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph"
+  },
+  {
+    "original_text": "The customer service was excellent.",
+    "adversarial_text": "The customer service was excеllent.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The book was fascinating and well-written.",
+    "adversarial_text": "The book was fascinating and well-writtеn.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The website is slow and hard to navigate.",
+    "adversarial_text": "The website is slow and hard to navigаte.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The movie's plot was predictable.",
+    "adversarial_text": "The movie's plot was predіctable.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app interface is clean and intuitive.",
+    "adversarial_text": "The app interface is clean and intuitіve.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel staff were friendly and helpful.",
+    "adversarial_text": "The hotel staff were frіendly and helpful.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The food was cold and tasteless.",
+    "adversarial_text": "The food was cold and tasteless\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The product broke after one use.",
+    "adversarial_text": "The product broke after one uѕe.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The concert was amazing and full of energy.",
+    "adversarial_text": "The concert was amazing and full of energy\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner"
+  },
+  {
+    "original_text": "The book was too long and boring.",
+    "adversarial_text": "The book was too long and boгing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app is buggy and crashes often.",
+    "adversarial_text": "The app is buggy and crashes оften.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel was clean and well-maintained.",
+    "adversarial_text": "The hotel was clean and well-maintained\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The book's ending was satisfying and emotional.",
+    "adversarial_text": "The book's ending was satisfying and emotіonal.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The website is slow and difficult to navigate.",
+    "adversarial_text": "The website is slow and difficult to navigаte.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The concert was loud and exciting.",
+    "adversarial_text": "The concert was loud and exciting\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner"
+  },
+  {
+    "original_text": "The product arrived damaged and unusable.",
+    "adversarial_text": "The product arrived damaged and unusаble.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The lecture was informative and engaging.",
+    "adversarial_text": "The lecture was informative and engaging\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The movie was fantastic and thrilling.",
+    "adversarial_text": "The movie was fantаstic and thrilling.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "I hated the service at the restaurant.",
+    "adversarial_text": "I hаted the service at the restaurant.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The product quality exceeded my expectations.",
+    "adversarial_text": "The product quality exceeded my expectаtions.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app is very user-friendly and intuitive.",
+    "adversarial_text": "The app is very user-friendly and intuitіve.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean and comfortаble.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The food was bland and tasteless.",
+    "adversarial_text": "The food was blаnd and tasteless.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was boring and too lоng.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The customer support was helpful and quick.",
+    "adversarial_text": "The customer support was helpful and quіck.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The website loads quickly and is easy to use.",
+    "adversarial_text": "The website loads quickly and is easy to uѕe.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The movie's acting was superb and convincing.",
+    "adversarial_text": "The movie's acting was superb and convіncing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app's updates improved performance significantly.",
+    "adversarial_text": "The app's updates improved performance significаntly.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel was located in a convenient area.",
+    "adversarial_text": "The hotel was located in a convenient аrea.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The food was overpriced for the quality.",
+    "adversarial_text": "The food was overpriced for the quаlity.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The concert was unforgettable and lively.",
+    "adversarial_text": "The concert was unforgettable and lіvely.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The product was defective and returned immediately.",
+    "adversarial_text": "The product was defective and returned immedіately.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The lecture was engaging and informative.",
+    "adversarial_text": "The lecture was engaging and informаtive.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The app interface is confusing and cluttered.",
+    "adversarial_text": "The app interface is confusing and cluttеred.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  },
+  {
+    "original_text": "The hotel staff were rude and unhelpful.",
+    "adversarial_text": "The hotel staff were rude and unhelpful\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The book was a fascinating read from start to finish.",
+    "adversarial_text": "The book was a fascinating read from start to finіsh.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph"
+  }
+  {
+    "original_text": "The movie was exciting and full of surprises.",
+    "adversarial_text": "The movie was exciting and full of surpri\u200Bses.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The food was fresh and tasty.",
+    "adversarial_text": "The food was fresh and ta\u200Sty.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The app is slow and crashes often.",
+    "adversarial_text": "The app is slow and crashes of\u200Bten.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean and comfort\u200Bable.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was boring and too lo\u200Bng.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The customer service was excellent.",
+    "adversarial_text": "The customer service was exc\u200Bellent.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The book was fascinating and well-written.",
+    "adversarial_text": "The book was fascinating and well-wri\u200Btten.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The website is slow and hard to navigate.",
+    "adversarial_text": "The website is slow and hard to navig\u200Bate.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The movie's plot was predictable.",
+    "adversarial_text": "The movie's plot was predicta\u200Bble.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The app interface is clean and intuitive.",
+    "adversarial_text": "The app interface is clean and intui\u200Btive.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The hotel staff were friendly and helpful.",
+    "adversarial_text": "The hotel staff were friendl\u200By and helpful.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The food was cold and tasteless.",
+    "adversarial_text": "The food was cold and taste\u200Bless.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The product broke after one use.",
+    "adversarial_text": "The product broke after one us\u200Be.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The concert was amazing and full of energy.",
+    "adversarial_text": "The concert was amazing and full of ener\u200Bgy.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The book was too long and boring.",
+    "adversarial_text": "The book was too long and bor\u200Bing.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The app is buggy and crashes often.",
+    "adversarial_text": "The app is buggy and crashes of\u200Bten.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The hotel was clean and well-maintained.",
+    "adversarial_text": "The hotel was clean and well-mai\u200Bntained.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The book's ending was satisfying and emotional.",
+    "adversarial_text": "The book's ending was satisfyi\u200Bng and emotional.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The website is slow and difficult to navigate.",
+    "adversarial_text": "The website is slow and difficult to naviga\u200Bte.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The concert was loud and exciting.",
+    "adversarial_text": "The concert was loud and exciti\u200Bng.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The product arrived damaged and unusable.",
+    "adversarial_text": "The product arrived damaged and unusab\u200Ble.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The lecture was informative and engaging.",
+    "adversarial_text": "The lecture was informative and engag\u200Bing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The movie was fantastic and thrilling.",
+    "adversarial_text": "The movie was fantasti\u200Bc and thrilling.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner Injection"
+  },
+  {
+    "original_text": "I hated the service at the restaurant.",
+    "adversarial_text": "I hated the service at the restaura\u200Bnt.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The product quality exceeded my expectations.",
+    "adversarial_text": "The product quality exceeded my expecta\u200Btions.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The app is very user-friendly and intuitive.",
+    "adversarial_text": "The app is very user-friendly and intui\u200Btive.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean and comforta\u200Bble.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The food was bland and tasteless.",
+    "adversarial_text": "The food was bland and tastele\u200Bss.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was boring and too lo\u200Bng.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The customer support was helpful and quick.",
+    "adversarial_text": "The customer support was helpful and quic\u200Bk.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner Injection"
+  },
+  {
+    "original_text": "The website loads quickly and is easy to use.",
+    "adversarial_text": "The website loads quickly and is easy to u\u200Bse.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The movie's acting was superb and convincing.",
+    "adversarial_text": "The movie's acting was superb and convinc\u200Bing.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The app's updates improved performance significantly.",
+    "adversarial_text": "The app's updates improved performance significan\u200Btly.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The hotel was located in a convenient area.",
+    "adversarial_text": "The hotel was located in a convenient ar\u200Bea.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The food was overpriced for the quality.",
+    "adversarial_text": "The food was overpriced for the qual\u200Bity.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The concert was unforgettable and lively.",
+    "adversarial_text": "The concert was unforgettable and livel\u200By.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The product was defective and returned immediately.",
+    "adversarial_text": "The product was defective and returned immedia\u200Btely.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The lecture was engaging and informative.",
+    "adversarial_text": "The lecture was engaging and informati\u200Bve.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The app interface is confusing and cluttered.",
+    "adversarial_text": "The app interface is confusing and clutte\u200Bred.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The hotel staff were rude and unhelpful.",
+    "adversarial_text": "The hotel staff were rude and unhelpfu\u200Bl.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  },
+  {
+    "original_text": "The book was a fascinating read from start to finish.",
+    "adversarial_text": "The book was a fascinating read from start to finis\u200Bh.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space Injection"
+  }
+  {
+    "original_text": "The movie was exciting and full of surprises.",
+    "adversarial_text": "The movιe was excіting and full of surpri\u200Bses.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The food was fresh and tasty.",
+    "adversarial_text": "The food was fresh and tastу\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The app is slow and crashes often.",
+    "adversarial_text": "The app is slow and crashes οften\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean and comfortаble\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was boring and too lοng\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The customer service was excellent.",
+    "adversarial_text": "The customer service was excеllent\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The book was fascinating and well-written.",
+    "adversarial_text": "The book was fascinating and well-writtеn\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The website is slow and hard to navigate.",
+    "adversarial_text": "The website is slow and hard to navigаte\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The movie's plot was predictable.",
+    "adversarial_text": "The movie's plot was predіctable\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The app interface is clean and intuitive.",
+    "adversarial_text": "The app interface is clean and intuitіve\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The hotel staff were friendly and helpful.",
+    "adversarial_text": "The hotel staff were frіendly and helpful\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The food was cold and tasteless.",
+    "adversarial_text": "The food was cold and tasteless\u200C\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The product broke after one use.",
+    "adversarial_text": "The product broke after one uѕe\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The concert was amazing and full of energy.",
+    "adversarial_text": "The concert was amazing and full of energy\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The book was too long and boring.",
+    "adversarial_text": "The book was too long and boгing\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The app is buggy and crashes often.",
+    "adversarial_text": "The app is buggy and crashes оften\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The hotel was clean and well-maintained.",
+    "adversarial_text": "The hotel was clean and well-maintained\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The book's ending was satisfying and emotional.",
+    "adversarial_text": "The book's ending was satisfying and emotіonal\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The website is slow and difficult to navigate.",
+    "adversarial_text": "The website is slow and difficult to navigаte\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The concert was loud and exciting.",
+    "adversarial_text": "The concert was loud and exciting\u200D\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The product arrived damaged and unusable.",
+    "adversarial_text": "The product arrived damaged and unusаble\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The lecture was informative and engaging.",
+    "adversarial_text": "The lecture was informative and engaging\u200B\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie was fantastic and thrilling.",
+    "adversarial_text": "The movie was fantаstic and thrilling\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "I hated the service at the restaurant.",
+    "adversarial_text": "I hаted the service at the restaurant\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The product quality exceeded my expectations.",
+    "adversarial_text": "The product quality exceeded my expectаtions\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The app is very user-friendly and intuitive.",
+    "adversarial_text": "The app is very user-friendly and intuitіve\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean and comfortаble\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The food was bland and tasteless.",
+    "adversarial_text": "The food was blаnd and tasteless\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was boring and too lоng\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The customer support was helpful and quick.",
+    "adversarial_text": "The customer support was helpful and quіck\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The website loads quickly and is easy to use.",
+    "adversarial_text": "The website loads quickly and is easy to uѕe\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The movie's acting was superb and convincing.",
+    "adversarial_text": "The movie's acting was superb and convіncing\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The app's updates improved performance significantly.",
+    "adversarial_text": "The app's updates improved performance significаntly\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The hotel was located in a convenient area.",
+    "adversarial_text": "The hotel was located in a convenient аrea\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The food was overpriced for the quality.",
+    "adversarial_text": "The food was overpriced for the quаlity\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The concert was unforgettable and lively.",
+    "adversarial_text": "The concert was unforgettable and lіvely\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The product was defective and returned immediately.",
+    "adversarial_text": "The product was defective and returned immedіately\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space"
+  },
+  {
+    "original_text": "The lecture was engaging and informative.",
+    "adversarial_text": "The lecture was engaging and informаtive\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The app interface is confusing and cluttered.",
+    "adversarial_text": "The app interface is confusing and cluttеred\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The hotel staff were rude and unhelpful.",
+    "adversarial_text": "The hotel staff were rude and unhelpful\u200B\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The book was a fascinating read from start to finish.",
+    "adversarial_text": "The book was a fascinating read from start to finіsh\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner"
+  }
+  {
+    "original_text": "The movie was exciting and full of surprises.",
+    "adversarial_text": "The movіe was excіting and full of surpri\u200Bses\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The food was fresh and tasty.",
+    "adversarial_text": "The food was fresh and tastу\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The app is slow and crashes often.",
+    "adversarial_text": "The app is slow and crashes οften\u200D\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean and comfortаble\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was boring and too lοng\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The customer service was excellent.",
+    "adversarial_text": "The customer service was excеllent\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The book was fascinating and well-written.",
+    "adversarial_text": "The book was fascinating and well-writtеn\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The website is slow and hard to navigate.",
+    "adversarial_text": "The website is slow and hard to navigаte\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's plot was predictable.",
+    "adversarial_text": "The movie's plot was predіctable\u200D\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The app interface is clean and intuitive.",
+    "adversarial_text": "The app interface is clean and intuitіve\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The hotel staff were friendly and helpful.",
+    "adversarial_text": "The hotel staff were frіendly and helpful\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The food was cold and tasteless.",
+    "adversarial_text": "The food was cold and tasteless\u200C\u200B\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Space + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The product broke after one use.",
+    "adversarial_text": "The product broke after one uѕe\u200D\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The concert was amazing and full of energy.",
+    "adversarial_text": "The concert was amazing and full of energy\u200D\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The book was too long and boring.",
+    "adversarial_text": "The book was too long and boгing\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The app is buggy and crashes often.",
+    "adversarial_text": "The app is buggy and crashes оften\u200B\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The hotel was clean and well-maintained.",
+    "adversarial_text": "The hotel was clean and well-maintained\u200B\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The book's ending was satisfying and emotional.",
+    "adversarial_text": "The book's ending was satisfying and emotіonal\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The website is slow and difficult to navigate.",
+    "adversarial_text": "The website is slow and difficult to navigаte\u200B\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The concert was loud and exciting.",
+    "adversarial_text": "The concert was loud and exciting\u200D\u200C\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Non-Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The product arrived damaged and unusable.",
+    "adversarial_text": "The product arrived damaged and unusаble\u200B\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The lecture was informative and engaging.",
+    "adversarial_text": "The lecture was informative and engaging\u200B\u200D\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Joiner + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The movie was fantastic and thrilling.",
+    "adversarial_text": "The movie was fantаstic and thrilling\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "I hated the service at the restaurant.",
+    "adversarial_text": "I hаted the serviceat the restaurant\u200D\u200B\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The product quality exceeded my expectations.",
+    "adversarial_text": "The product quality exceeded my expectаtions\u200B\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The app is very user-friendly and intuitive.",
+    "adversarial_text": "The app is very user-friendly and intuitіve\u200C\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The hotel room was clean and comfortable.",
+    "adversarial_text": "The hotel room was clean and comfortаble\u200D\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The food was bland and tasteless.",
+    "adversarial_text": "The food was blаnd and tasteless\u200B\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The lecture was boring and too long.",
+    "adversarial_text": "The lecture was boring and too lоng\u200C\u200D\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The customer support was helpful and quick.",
+    "adversarial_text": "The customer support was helpful and quіck\u200D\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The website loads quickly and is easy to use.",
+    "adversarial_text": "The website loads quickly and is easy to uѕe\u200B\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's acting was superb and convincing.",
+    "adversarial_text": "The movie's acting was superb and convіncing\u200C\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The app's updates improved performance significantly.",
+    "adversarial_text": "The app's updates improved performance significаntly\u200D\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The hotel was located in a convenient area.",
+    "adversarial_text": "The hotel was located in a convenient аrea\u200B\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The food was overpriced for the quality.",
+    "adversarial_text": "The food was overpriced for the quаlity\u200C\u200D\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The concert was unforgettable and lively.",
+    "adversarial_text": "The concert was unforgettable and lіvely\u200D\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The product was defective and returned immediately.",
+    "adversarial_text": "The product was defective and returned immedіately\u200B\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The lecture was engaging and informative.",
+    "adversarial_text": "The lecture was engaging and informаtive\u200C\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The app interface is confusing and cluttered.",
+    "adversarial_text": "The app interface is confusing and cluttеred\u200D\u200B\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The hotel staff were rude and unhelpful.",
+    "adversarial_text": "The hotel staff were rude and unhelpful\u200B\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The book was a fascinating read from start to finish.",
+    "adversarial_text": "The book was a fascinating read from start to finіsh\u200D\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space + Zero-Width Non-Joiner"
+  }
+  {
+    "original_text": "The garden was blooming with colorful flowers.",
+    "adversarial_text": "The gardеn was blooming with colorful flowers\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "He quickly solved the complex puzzle.",
+    "adversarial_text": "He quickly solved the complex puzzlе\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The sky was clear and the stars shone brightly.",
+    "adversarial_text": "The sky was clear and the stars shone brіghtly\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "She enjoys reading historical novels.",
+    "adversarial_text": "She enjoys reading historical novеls\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The software update fixed many bugs.",
+    "adversarial_text": "The software update fixed many bugs\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The lecture covered advanced topics in physics.",
+    "adversarial_text": "The lecture covered advanced topics in physіcs\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The city skyline looked stunning at night.",
+    "adversarial_text": "The city skyline looked stunning at night\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The athlete broke the world record.",
+    "adversarial_text": "The athlete broke the world record\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The recipe requires fresh ingredients.",
+    "adversarial_text": "The recipe requires fresh іngredients\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The movie received mixed reviews from critics.",
+    "adversarial_text": "The movie received mixed reviews from critіcs\u200B\u200C.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The weather forecast predicts heavy rain tomorrow.",
+    "adversarial_text": "The weather forecast predicts heavy rain tomorrow\u200C\u200D.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The artist painted a beautiful landscape.",
+    "adversarial_text": "The artist painted a beautiful landscapе\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The bookshop offers a wide selection of genres.",
+    "adversarial_text": "The bookshop offers a wide selection of genrеs\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The concert was canceled due to bad weather.",
+    "adversarial_text": "The concert was canceled due to bad weather\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The new policy aims to reduce pollution.",
+    "adversarial_text": "The new policy aims to reduce pollutiоn\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The team worked hard to meet the deadline.",
+    "adversarial_text": "The team worked hard to meet the deadlіne\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The garden needs watering every morning.",
+    "adversarial_text": "The garden needs watering every morning\u200C\u200D.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The software crashed unexpectedly during the demo.",
+    "adversarial_text": "The software crashed unexpectedly during the demo\u200D\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The children played happily in the park.",
+    "adversarial_text": "The children played happily in the park\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The lecture was informative and well-structured.",
+    "adversarial_text": "The lecture was informative and well-structured\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's soundtrack was captivating.",
+    "adversarial_text": "The movie's soundtrack was captіvating\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The restaurant serves delicious vegan dishes.",
+    "adversarial_text": "The restaurant serves delicious vegan dishes\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The book was a thrilling mystery novel.",
+    "adversarial_text": "The book was a thrilling mystery novеl\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The weather was perfect for a picnic.",
+    "adversarial_text": "The weather was perfect for a picnic\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The artist's work was displayed in the gallery.",
+    "adversarial_text": "The artist's work was displayed in the gallеry\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space+ Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The conference was well-organized and informative.",
+    "adversarial_text": "The conference was well-organized and informаtive\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's plot was confusing and hard to follow.",
+    "adversarial_text": "The movie's plot was confusing and hard to follоw\u200D\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The new phone model has impressive features.",
+    "adversarial_text": "The new phone model has impressive feаtures\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The garden was full of blooming roses.",
+    "adversarial_text": "The garden was full of blooming rosеs\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The software installation was quick and easy.",
+    "adversarial_text": "The software installation was quick and easy\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The children laughed and played in the sunshine.",
+    "adversarial_text": "The children laughed and played in the sunshіne\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The lecture was too technical for beginners.",
+    "adversarial_text": "The lecture was too technical for beginners\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The restaurant's ambiance was cozy and inviting.",
+    "adversarial_text": "The restaurant's ambiance was cozy and inviting\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The book's characters were well-developed and relatable.",
+    "adversarial_text": "The book's characters were well-developed and relatаble\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The weather turned cold and windy suddenly.",
+    "adversarial_text": "The weather turned cold and windy suddenly\u200C\u200D.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's special effects were stunning.",
+    "adversarial_text": "The movie's special effects were stunnіng\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The app's interface is user-friendly and responsive.",
+    "adversarial_text": "The app's interface is user-friendly and responsіve\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The hotel offered excellent amenities and service.",
+    "adversarial_text": "The hotel offered excellent amenities and service\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The concert was loud but enjoyable.",
+    "adversarial_text": "The concert was loud but enjoyable\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The product arrived on time and in good condition.",
+    "adversarial_text": "The product arrived on time and in good condition\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The lecture was engaging and easy to understand.",
+    "adversarial_text": "The lecture was engaging and easy to understаnd\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The garden was peaceful and full of birdsong.",
+    "adversarial_text": "The garden was peaceful and full of birdsоng\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The software update improved system stability.",
+    "adversarial_text": "The software update improved system stability\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The children enjoyed the outdoor activities.",
+    "adversarial_text": "The children enjoyed the outdoor activities\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The restaurant's menu offers a variety of options.",
+    "adversarial_text": "The restaurant's menu offers a variety of options\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The book was a captivating tale of adventure.",
+    "adversarial_text": "The book was a captivating tale of adventurе\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The weather forecast predicts sunshine all week.",
+    "adversarial_text": "The weather forecast predicts sunshine all week\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's direction was innovative and bold.",
+    "adversarial_text": "The movie's direction was innovative and bold\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The app's performance has improved significantly.",
+    "adversarial_text": "The app's performance has improved significаntly\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The hotel room was spacious and well-furnished.",
+    "adversarial_text": "The hotel room was spacious and well-furnishеd\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The concert featured a mix of classical and modern music.",
+    "adversarial_text": "The concert featured a mix of classical and modern musіc\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The product packaging was damaged upon arrival.",
+    "adversarial_text": "The product packaging was damaged upon arrival\u200B\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The lecture provided valuable insights into the topic.",
+    "adversarial_text": "The lecture provided valuable insights into the topіc\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The garden was a peaceful retreat from the city.",
+    "adversarial_text": "The garden was a peaceful retreat from the city\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The software interface is intuitive and easy to use.",
+    "adversarial_text": "The software interface is intuitive and easy to use\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The children were excited to visit the zoo.",
+    "adversarial_text": "The children were excited to visit the zoo\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The restaurant's chef prepared a delicious meal.",
+    "adversarial_text": "The restaurant's chef prepared a delicious meal\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  }
+  {
+    "original_text": "The garden was blooming with colorful flowers.",
+    "adversarial_text": "The gardеn was blooming with colorful flowers\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "He quickly solved the complex puzzle.",
+    "adversarial_text": "He quickly solved the complex puzzlе\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The sky was clear and the stars shone brightly.",
+    "adversarial_text": "The sky was clear and the stars shone brіghtly\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "She enjoys reading historical novels.",
+    "adversarial_text": "She enjoys reading historical novеls\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The software update fixed many bugs.",
+    "adversarial_text": "The software update fixed many bugs\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The lecture covered advanced topics in physics.",
+    "adversarial_text": "The lecture covered advanced topics in physіcs\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The city skyline looked stunning at night.",
+    "adversarial_text": "The city skyline looked stunning at night\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The athlete broke the world record.",
+    "adversarial_text": "The athlete broke the world record\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The recipe requires fresh ingredients.",
+    "adversarial_text": "The recipe requires fresh іngredients\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The movie received mixed reviews from critics.",
+    "adversarial_text": "The movie received mixed reviews from critіcs\u200B\u200C.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The weather forecast predicts heavy rain tomorrow.",
+    "adversarial_text": "The weather forecast predicts heavy rain tomorrow\u200C\u200D.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The artist painted a beautiful landscape.",
+    "adversarial_text": "The artist painted a beautiful landscapе\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The bookshop offers a wide selection of genres.",
+    "adversarial_text": "The bookshop offers a wide selection of genrеs\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The concert was canceled due to bad weather.",
+    "adversarial_text": "The concert was canceled due to bad weather\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The new policy aims to reduce pollution.",
+    "adversarial_text": "The new policy aims to reduce pollutiоn\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The team worked hard to meet the deadline.",
+    "adversarial_text": "The team worked hard to meet the deadlіne\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The garden needs watering every morning.",
+    "adversarial_text": "The garden needs watering every morning\u200C\u200D.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The software crashed unexpectedly during the demo.",
+    "adversarial_text": "The software crashed unexpectedly during the demo\u200D\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The children played happily in the park.",
+    "adversarial_text": "The children played happily in the park\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The lecture was informative and well-structured.",
+    "adversarial_text": "The lecture was informative and well-structured\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's soundtrack was captivating.",
+    "adversarial_text": "The movie's soundtrack was captіvating\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The restaurant serves delicious vegan dishes.",
+    "adversarial_text": "The restaurant serves delicious vegan dishes\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The book was a thrilling mystery novel.",
+    "adversarial_text": "The book was a thrilling mystery novеl\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The weather was perfect for a picnic.",
+    "adversarial_text": "The weather was perfect for a picnic\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The artist's work was displayed in the gallery.",
+    "adversarial_text": "The artist's work was displayed in the gallеry\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space+ Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The conference was well-organized and informative.",
+    "adversarial_text": "The conference was well-organized and informаtive\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's plot was confusing and hard to follow.",
+    "adversarial_text": "The movie's plot was confusing and hard to follоw\u200D\u200B.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The new phone model has impressive features.",
+    "adversarial_text": "The new phone model has impressive feаtures\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The garden was full of blooming roses.",
+    "adversarial_text": "The garden was full of blooming rosеs\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The software installation was quick and easy.",
+    "adversarial_text": "The software installation was quick and easy\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The children laughed and played in the sunshine.",
+    "adversarial_text": "The children laughed and played in the sunshіne\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The lecture was too technical for beginners.",
+    "adversarial_text": "The lecture was too technical for beginners\u200C\u200D.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The restaurant's ambiance was cozy and inviting.",
+    "adversarial_text": "The restaurant's ambiance was cozy and inviting\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The book's characters were well-developed and relatable.",
+    "adversarial_text": "The book's characters were well-developed and relatаble\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The weather turned cold and windy suddenly.",
+    "adversarial_text": "The weather turned cold and windy suddenly\u200C\u200D.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's special effects were stunning.",
+    "adversarial_text": "The movie's special effects were stunnіng\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The app's interface is user-friendly and responsive.",
+    "adversarial_text": "The app's interface is user-friendly and responsіve\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The hotel offered excellent amenities and service.",
+    "adversarial_text": "The hotel offered excellent amenities and service\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The concert was loud but enjoyable.",
+    "adversarial_text": "The concert was loud but enjoyable\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The product arrived on time and in good condition.",
+    "adversarial_text": "The product arrived on time and in good condition\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The lecture was engaging and easy to understand.",
+    "adversarial_text": "The lecture was engaging and easy to understаnd\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The garden was peaceful and full of birdsong.",
+    "adversarial_text": "The garden was peaceful and full of birdsоng\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Greek Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The software update improved system stability.",
+    "adversarial_text": "The software update improved system stability\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The children enjoyed the outdoor activities.",
+    "adversarial_text": "The children enjoyed the outdoor activities\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The restaurant's menu offers a variety of options.",
+    "adversarial_text": "The restaurant's menu offers a variety of options\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The book was a captivating tale of adventure.",
+    "adversarial_text": "The book was a captivating tale of adventurе\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The weather forecast predicts sunshine all week.",
+    "adversarial_text": "The weather forecast predicts sunshine all week\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The movie's direction was innovative and bold.",
+    "adversarial_text": "The movie's direction was innovative and bold\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The app's performance has improved significantly.",
+    "adversarial_text": "The app's performance has improved significаntly\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The hotel room was spacious and well-furnished.",
+    "adversarial_text": "The hotel room was spacious and well-furnishеd\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The concert featured a mix of classical and modern music.",
+    "adversarial_text": "The concert featured a mix of classical and modern musіc\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The product packaging was damaged upon arrival.",
+    "adversarial_text": "The product packaging was damaged upon arrival\u200B\u200C.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The lecture provided valuable insights into the topic.",
+    "adversarial_text": "The lecture provided valuable insights into the topіc\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Homoglyph + Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The garden was a peaceful retreat from the city.",
+    "adversarial_text": "The garden was a peaceful retreat from the city\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  },
+  {
+    "original_text": "The software interface is intuitive and easy to use.",
+    "adversarial_text": "The software interface is intuitive and easy to use\u200B\u200C.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Space + Zero-Width Non-Joiner"
+  },
+  {
+    "original_text": "The children were excited to visit the zoo.",
+    "adversarial_text": "The children were excited to visit the zoo\u200C\u200D.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Non-Joiner + Zero-Width Joiner"
+  },
+  {
+    "original_text": "The restaurant's chef prepared a delicious meal.",
+    "adversarial_text": "The restaurant's chef prepared a delicious meal\u200D\u200B.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Zero-Width Joiner + Zero-Width Space"
+  }
+  {
+    "original_text": "The morning dew glistened on the grass.",
+    "adversarial_text": "The morning dew glіstened on the grass.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "She wore a beautiful red dress to the party.",
+    "adversarial_text": "She wore a beautiful red dгess to the party.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter Ge"
+  },
+  {
+    "original_text": "The old clock chimed at midnight.",
+    "adversarial_text": "The old clock chimed at midnіght.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The children gathered around the campfire.",
+    "adversarial_text": "The children gathered around the campfіre.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The river sparkled under the bright sun.",
+    "adversarial_text": "The river sparkled under the bright sυn.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Greek Small Letter Upsilon"
+  },
+  {
+    "original_text": "The garden was filled with blooming daisies.",
+    "adversarial_text": "The garden was filled with blooming daіsies.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The cat purred softly on the windowsill.",
+    "adversarial_text": "The cat purred softly on the windowѕill.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Latin Small Letter S with Caron"
+  },
+  {
+    "original_text": "The sky was painted with shades of pink and purple.",
+    "adversarial_text": "The sky was painted with shades of pink and purрle.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter Er"
+  },
+  {
+    "original_text": "The dog chased the ball across the yard.",
+    "adversarial_text": "The dog chased the ball across the yаrd.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter A"
+  },
+  {
+    "original_text": "The flowers bloomed early this spring.",
+    "adversarial_text": "The flowers bloomed early this sprіng.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The wind rustled the leaves gently.",
+    "adversarial_text": "The wind rustled the leaves gentlу.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter U"
+  },
+  {
+    "original_text": "The mountain trail was steep and rocky.",
+    "adversarial_text": "The mountain trail was steep and rockу.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter U"
+  },
+  {
+    "original_text": "The artist's brush strokes were bold and expressive.",
+    "adversarial_text": "The artist's brush strokes were bold and expressіve.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The children played happily in the sunshine.",
+    "adversarial_text": "The children played happily in the sunshіne.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The book was a thrilling mystery novel.",
+    "adversarial_text": "The book was a thrilling mystery novеl.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter E"
+  },
+  {
+    "original_text": "The restaurant served delicious vegan dishes.",
+    "adversarial_text": "The restaurant served delicious vegan dishеs.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter E"
+  },
+  {
+    "original_text": "The movie's soundtrack was captivating.",
+    "adversarial_text": "The movie's soundtrack was captіvating.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The lecture was informative and engaging.",
+    "adversarial_text": "The lecture was informative and engagіng.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The software update fixed many bugs.",
+    "adversarial_text": "The software update fixed many bugѕ.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Latin Small Letter S with Caron"
+  },
+  {
+    "original_text": "The city skyline looked stunning at night.",
+    "adversarial_text": "The city skyline looked stunning at nіght.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The athlete broke the world record.",
+    "adversarial_text": "The athlete broke the world recоrd.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter O"
+  },
+  {
+    "original_text": "The recipe requires fresh ingredients.",
+    "adversarial_text": "The recipe requires fresh іngredients.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The movie received mixed reviews from critics.",
+    "adversarial_text": "The movie received mixed reviews from critіcs.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The weather forecast predicts heavy rain tomorrow.",
+    "adversarial_text": "The weather forecast predicts heavy rain tomоrrow.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter O"
+  },
+  {
+    "original_text": "The artist painted a beautiful landscape.",
+    "adversarial_text": "The artist painted a beautiful landscapе.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter E"
+  },
+  {
+    "original_text": "The bookshop offers a wide selection of genres.",
+    "adversarial_text": "The bookshop offers a wide selection of genrеs.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter E"
+  },
+  {
+    "original_text": "The concert was canceled due to bad weather.",
+    "adversarial_text": "The concert was canceled due to bad weathеr.",
+    "true_label": "negative",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter E"
+  },
+  {
+    "original_text": "The new policy aims to reduce pollution.",
+    "adversarial_text": "The new policy aims to reduce pollutiоn.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter O"
+  },
+  {
+    "original_text": "The team worked hard to meet the deadline.",
+    "adversarial_text": "The team worked hard to meet the deadlіne.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The garden needs watering every morning.",
+    "adversarial_text": "The garden needs watering every mornіng.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Smallng"
+  },
+  {
+    "original_text": "The library was quiet except for the sound of pages turning.",
+    "adversarial_text": "The library was quiet except for the sound of pages turnіng.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The chef prepared a delicious meal for the guests.",
+    "adversarial_text": "The chef prepared a delicious meal for the guеsts.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter E"
+  },
+  {
+    "original_text": "The children enjoyed the colorful fireworks display.",
+    "adversarial_text": "The children enjoyed the colorful fireworks displаy.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter A"
+  },
+  {
+    "original_text": "The mountain air was crisp and refreshing.",
+    "adversarial_text": "The mountain air was crisp and refreshіng.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The festival attracted visitors from all over the world.",
+    "adversarial_text": "The festival attracted visitors from all over the wоrld.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter O"
+  },
+  {
+    "original_text": "The book's plot was full of unexpected twists.",
+    "adversarial_text": "The book's plot was full of unexpected twіsts.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The riverbank was lined with tall trees.",
+    "adversarial_text": "The riverbank was lined with tall treеs.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter E"
+  },
+  {
+    "original_text": "The children laughed as they played in the snow.",
+    "adversarial_text": "The children laughed as they played in the snоw.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter O"
+  },
+  {
+    "original_text": "The artist's work was displayed in the gallery.",
+    "adversarial_text": "The artist's work was displayed in the gallеry.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter E"
+  },
+  {
+    "original_text": "The sun rose over the horizon, casting golden light.",
+    "adversarial_text": "The sun rose over the horizon, casting golden lіght.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter I"
+  },
+  {
+    "original_text": "The dog barked loudly at the passing car.",
+    "adversarial_text": "The dog barked loudly at the passing сar.",
+    "true_label": "neutral",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter Es"
+  },
+  {
+    "original_text": "The garden was a peaceful retreat from the city.",
+    "adversarial_text": "The garden was a peaceful retreat from the сity.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter Es"
+  },
+  {
+    "original_text": "The children enjoyed the warm summer breeze.",
+    "adversarial_text": "The children enjoyed the warm summer breеze.",
+    "true_label": "positive",
+    "is_adversarial": true,
+    "attack_type": "Cyrillic Small Letter E"
+  }
+]
